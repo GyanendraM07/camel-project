@@ -1,0 +1,16 @@
+{
+  "BOM_AS4US_20240223.CSV": {
+    "code": "^(?!null$|^\\s*$).+", 
+    "assemb": "^(?!null$|^\\s*$).+", 
+    "lineno": "^(?!null$|^\\s*$).+", 
+    "compnt": "^(?!null$|^\\s*$).+", 
+    "comst": "^(?!null$|^\\s*$).+", 
+    "comqty": "^(?!null$|^\\s*$).+", 
+    "crtdat": "^(?!null$|^\\s*$).+", 
+    "revdat": "^(?!null$|^\\s*$).+", 
+    "revnum": "^(?!null$|^\\s*$).+"
+},
+  "testingfile.CSV": {
+    "CUSTID": "^(?!null$|^\\s*$).+"
+}
+}
